@@ -1,0 +1,9 @@
+GPS_TOPIC: "gps/filtered"
+BASE_STATION_TOPIC: "hw_api/rtk"
+ODOM_TOPIC: "lio_sam/imupreintegration/odom"
+FRAME_ID: "uav9/fcu"
+PUBLISHED_TOPIC: "inference_results"
+SERVICE_TOPIC: "hw_api/go_to"
+PATH_FILE_OUTPUT: "data/zigzag_path.json"
+PATH_FILE: "data/zigzag_path.json"
+SPACING: 1.0
